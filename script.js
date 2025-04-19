@@ -27,6 +27,7 @@ const speeches = [
 const quotes = [
   { time: 1920, text: "I rise with the intention of disrupting the normal business of the United States Senate for as long as I am physically able." },
   { time: 28080, text: "Yes, I will yield for a question while retaining the floor." },
+  {time: 38290, text: "Instead of the agenda simply being the education of our kids or the administration of a benefit program, it just becomes about making somebody else money"},
   { time: 85000, text: "This is a moral moment. It's not left or right, it's right or wrong. Let's get in good trouble. My friend, Madam President, I yield the floor." }
 ];
 
